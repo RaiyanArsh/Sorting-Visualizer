@@ -1,4 +1,4 @@
 # Sorting-Visualizer
 <br/>
-Websit Link 👇<br/>
-🔗 
+Website Link 👇<br/>
+🔗 https://raiyanarsh.github.io/Sorting-Visualizer/
